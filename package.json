@@ -4,8 +4,8 @@
   "description": "Simple newsletter app using Mailchimp",
   "main": "app.js",
   "scripts": {
-    "test": "node app",
-    "dev": "nodemon app"
+    "dev": "node app",
+    "test": "nodemon app"
   },
   "author": "Hudson Holanda",
   "license": "MIT",
